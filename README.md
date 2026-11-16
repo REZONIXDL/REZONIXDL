@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="Coding animation"></p>
+<p align="center"><img src="banner.gif" width="800" alt="REZONIX banner"></p>
 
 # Hi, I'm Reza 👋
 
