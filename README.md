@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="Coding animation"></p>
+
 # Hi, I'm Reza 👋
 
 **Programmer | AI & Cybersecurity | Web & App Development**
